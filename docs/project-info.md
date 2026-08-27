@@ -17,3 +17,6 @@ Centralizar información académica de estudiantes y cursos.
 Managed with Git and GitHub.
 
 
+##Collaboration 
+
+Development follows a branch and pull request workflow.
